@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, rgba(233,246,253,1) 32%,rgba(211,238,251,1) 100%);
+}
+
+.parrafo {
+    width: 70vw;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.list-group {
+    margin: 10px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.carousel {
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
